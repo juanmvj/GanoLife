@@ -23,8 +23,19 @@ class MapasView extends Component {
       longitude: -99.133208,
       latitudeDelta: 0.0922,
       longitudeDelta: 0.0421,
-    }} style={styles.map}
-  />
+    }} style={styles.map}>
+              
+          <MapView.Marker
+            coordinate={{
+                  latitude: 19.432608,
+                  longitude: -99.133208,
+                }}
+            title={'sucursal'}
+            
+          />
+     
+          </MapView>
+        
       </View>
       
     )

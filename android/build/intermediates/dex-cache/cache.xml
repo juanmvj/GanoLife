@@ -12,6 +12,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_25a251895f637d5fac9ddb5e499f51008e420a8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -21,12 +30,48 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_7dabdf02dfece01fd8434b051a4c3d5bb989675c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/juanvazquez/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
         <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_10d362d05fc56aa3e37498dc5fb626328231f59b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juanvazquez/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_e10c876abfdaed67419b427b05852fd1844252cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_5e9fc02e49d54c114433f478c6340172ebfaff6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_aaf97b2237b430aecb75ba9308659b262a264303.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,12 +102,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_41972391b74128bfa68624e62331c16059e86d9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juanvazquez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_bf274a7be4f30ab6c6dc96e87f0bf2cb7149f66d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="576b5113887747a7592650ae14d980e1c57983c4">
         <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.2_739491c516e5f844c460b4bdd40d69dba35efd7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_a737737e053fa729c8f586920bebe8371456ba8d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,12 +183,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/juanvazquez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_25ec6763a0be76e1ed734a28c595658284552bb9.jar" />
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.0_49cb221959a58fccfda2ef83c1ce1ca250cc1d5f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,12 +201,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_9d2499ad310f26944282e08d426fe7cc1ac7767d.jar" />
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-25.0.0_c6fbb8b7e1e88eb519b2a566ccfa402f5470e2dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_f1c2e42400b3104c10a328a9b5ab8d029ae7a58d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_6cfa2a9e09af8c1fdba06838cb7626571b1e1ac8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -165,6 +255,33 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_895a08c37b5b884034c8194e9b824d7b5590bb0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_2252619a046f79de26a6a546c1a8229574606cab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_84ffce41eefc0b7e6d105cdc5760defdb4182534.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -174,12 +291,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_99348ab528beca900e2e8a4459d98f0879370353.jar" />
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_87324b0cb2dc1ed50dcfdfe1147262e3d2a61d3a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -192,6 +309,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/GanoLife/react-native-fbsdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="13ec1e90f03984272236a5437d478af7a7c0478a">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/GanoLife-react-native-fbsdk-unspecified_ce278e3ef8e1afcd2cf059d960f3ffb02aed4e6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -201,12 +327,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_7f96ab670e6ed92d678384c4aafa68080d40aeef.jar" />
+        sha1="d5cbc9214ee567ea6ef56fb2707d48e58d240fc2">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.22.1_f26ac02a12cf5c34ca1f18504c6a610ccd6f724e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_84b0a5113321dab4d7b1da9cc6879776fb7b1dde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/juanvazquez/Desktop/GanoLife/GanoLife/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_2be0bbd9b058e882e34b89c3e2c0e00d20818952.jar" />
     </item>
     <item
         is-multidex="false"

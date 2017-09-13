@@ -15,11 +15,11 @@ class NavBar extends Component {
      
       <View style={{ flexDirection: 'row' }}>
         <TouchableWithoutFeedback onPress={() => Actions.login()}>
-            <Icon name="md-arrow-back" size={40} color="gray" style={styles.backarrowStyle} ></Icon>
+            <Icon name="md-arrow-back" size={30} color="gray" style={styles.backarrowStyle} ></Icon>
         </TouchableWithoutFeedback>
         
         <TouchableWithoutFeedback onPress={() => Actions.menu()}>
-            <Icon name="ios-menu" size={40} color="gray" style={styles.settingStyle} ></Icon>
+            <Icon name="ios-menu" size={30} color="gray" style={styles.settingStyle} ></Icon>
         </TouchableWithoutFeedback>
         
     </View>
@@ -40,7 +40,8 @@ const styles = {
     height: 50,
     left: 0,
     justifyContent: 'flex-start',
-    marginLeft:10,
+    marginLeft:15,
+    marginTop:15,
     
   },
   helpStyle: {
@@ -59,6 +60,7 @@ const styles = {
     justifyContent: 'flex-end',
   position: 'relative',
   left: 250,
+    marginTop:15,
   }
 };
 

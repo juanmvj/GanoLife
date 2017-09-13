@@ -11,18 +11,28 @@ import {
 
 import MapasView from './MapasView';
 import {Scene, Router, Actions} from 'react-native-router-flux'; 
-//import FBSDK, {LoginButton, AccessToken } from 'react-native-fbsdk'; 
+import FBSDK, {LoginButton, AccessToken, LoginManager } from 'react-native-fbsdk'; 
 
 class LoginView extends Component {
 
-
+  handleLoginFinished = (error, result) => {
+                        if (error) {
+                          console.error(error)
+                        } else if (result.isCancelled) {
+                          alert("login is cancelled.");
+                        } else {
+                          AccessToken.getCurrentAccessToken().then(() => {
+                            Actions.news()
+                          })
+                        }
+                      }
   render() {
     return (
 
       <View
         style={{
           flex: 1,
-          justifyContent: "space-between",
+          justifyContent: "flex-start",
           alignItems: "center",
           backgroundColor: "rgba(255,255,255,1)",
           
@@ -52,6 +62,7 @@ class LoginView extends Component {
         </Image>
         <Text
           style={{
+            marginBottom: 50,
             color: "rgba(134,126,126,1)",
             fontSize: 39,
             fontWeight: 'normal',
@@ -59,9 +70,13 @@ class LoginView extends Component {
           }}>
           BIENVENIDO
         </Text>
-        
-   
 
+   
+        <LoginButton
+          
+          readPermissions={['public_profile','email']}
+          onLoginFinished={this.handleLoginFinished}
+          onLogoutFinished={() => alert("logout.")}/>
         
       </View>
         
